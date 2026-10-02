@@ -1,0 +1,6 @@
+{
+  "name": "MathVenture 5 - Khám Phá Toán Lớp 5",
+  "description": "Website học Toán tương tác lớp 5 dành cho học sinh 10-11 tuổi: Trực quan hoá số thập phân, phần trăm, hình học và chuyển động qua thí nghiệm tương tác và thử thách thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
